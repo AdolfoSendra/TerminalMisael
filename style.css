@@ -1,0 +1,38 @@
+.Input {
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    padding-left: 6px;
+    color: var(--text-color);
+    min-width: calc(100% - 100px)
+}
+
+.Home {
+    min-height: 100vh;
+    padding: 0 .5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    max-width: 600px
+    
+}
+h1{
+    line-height: 1.2;
+}
+
+.Home_help {
+    color: var(--text-color)
+}
+
+#help{
+    color: #cdf676;
+}
+#resultado{
+    max-height: 408px;
+    overflow-y: scroll;
+}
+#resultado::-webkit-scrollbar {
+    width: 0!important
+}
+

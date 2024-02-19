@@ -31,8 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 break;
             case '1':
-                output.innerHTML += '<br><h1>🙋🏽‍♂️ About me</h1><br> ¡Hola! Soy un apasionado desarrollador de software con un enfoque especial en C# y el entorno .NET. Me encanta trabajar con el framework ASP.NET y he estado involucrado en varios proyectos personales donde he aplicado mis habilidades para crear soluciones.  ';
-
+                output.innerHTML += '<br><h1>🙋🏽‍♂️ About me</h1><br> Hello! I\'m a passionate software developer with a special focus on C# and the .NET environment. I love working with the ASP.NET framework and have been involved in various personal projects where I\'ve applied my skills to create solutions.';
                 break;
             case '2':
                 output.innerHTML += '<br><h1>📙 My Education</h1><br> freshman at the <span style="color:#cdf676">Universidad Tecnologica Nacional</span><br>university degree in programming';
